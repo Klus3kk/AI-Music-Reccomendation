@@ -1,2 +1,2 @@
-# AI-Music-Reccommendate
+# AI-Music-Reccomendation
 WORK IN PROGRESS
